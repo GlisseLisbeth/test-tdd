@@ -1,0 +1,25 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "exercise of TDD",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlisseLisbeth/test-tdd.git"
+  },
+  "keywords": [
+    "Pruebas",
+    "Unitarias"
+  ],
+  "author": "Glisse Lisbeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlisseLisbeth/test-tdd/issues"
+  },
+  "homepage": "https://github.com/GlisseLisbeth/test-tdd#readme"
+}
